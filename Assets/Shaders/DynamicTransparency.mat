@@ -136,7 +136,7 @@ Material:
     - _FarColor: {r: 0, g: 0.04445052, b: 1, a: 0}
     - _ObjectColor: {r: 1, g: 0, b: 0, a: 0}
     - _ObjectSecondaryColor: {r: 0, g: 0, b: 0, a: 0}
-    - _OtherObjectPosition: {r: 1.1076308, g: -0.89190507, b: -0.8877533, a: 0}
+    - _OtherObjectPosition: {r: 0.741332, g: -0.072654605, b: 0.04182011, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &7928158135208751703
