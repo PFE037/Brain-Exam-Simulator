@@ -22,7 +22,7 @@ To integrate Ultraleap tracking, follow these steps:
 - Open Unity and import the project.
 - Go to the "Project" menu in Unity.
 - Navigate to "Assets" and find the main scene.
-- Select the main scene to load it into the editor.
+- Select the "Scene principale" to load it into the editor.
 
 ### 4. Launching the Simulation
 
@@ -66,7 +66,7 @@ Pour intégrer le suivi Ultraleap, suivez ces étapes :
 - Ouvrez Unity et importez le projet.
 - Accédez au menu "Projet" dans Unity.
 - Naviguez vers "Assets" et trouvez la scène principale.
-- Sélectionnez la scène principale pour la charger dans l'éditeur.
+- Sélectionnez la "Scene principale" pour la charger dans l'éditeur.
 
 ### 4. Lancer la simulation
 
