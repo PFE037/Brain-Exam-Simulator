@@ -1,4 +1,4 @@
-En --
+### EN
 This README will guide you through the necessary steps to launch and explore the Unity project with SteamVR and Varjo Lab. Make sure to follow these steps for a smooth experience.
 
 ## Steps to Launch the Project
@@ -42,7 +42,7 @@ Enjoy exploring and immersing yourself in the experience that this Unity project
 Feel free to consult the respective documentation of each tool for more detailed information about their features and configurations.
 
 
-Fr --
+### FR
 Ce README vous guidera à travers les étapes nécessaires pour lancer et explorer le projet Unity avec SteamVR et Varjo Lab. Assurez-vous de suivre ces étapes pour une expérience fluide.
 
 ## Étapes pour lancer le projet
