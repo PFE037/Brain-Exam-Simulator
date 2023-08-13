@@ -1,71 +1,86 @@
-English - README.md:
+En --
+This README will guide you through the necessary steps to launch and explore the Unity project with SteamVR and Varjo Lab. Make sure to follow these steps for a smooth experience.
 
-# Unity Package - My Awesome Unity Package
+## Steps to Launch the Project
 
-This is a Unity package that contains some amazing features and utilities to enhance your Unity projects. It includes various scripts, prefabs, textures, and more to save you time and effort during game development.
+### 1. Prerequisites
 
-## Installation
+Before you begin, make sure you have the following installed:
 
-To use this package in your Unity project, follow these steps:
+- **Unity**: Ensure you have Unity installed on your system. If not, download it from the official website: [Unity Download](https://unity.com/download).
+- **SteamVR**: Install SteamVR to enable virtual reality in the project. You can download it from [SteamVR](https://store.steampowered.com/app/250820/SteamVR/).
+- **Varjo Lab**: Make sure you have Varjo Lab installed for advanced virtual reality features. Get it from the Varjo website: [Varjo Lab](https://developer.varjo.com/downloads/varjo-base).
 
-1. Open your Unity project.
-2. Go to the **Window** menu.
-3. Select **Package Manager**.
-4. Click on the **+** button and choose **Add package from git URL**.
-5. Enter the following URL: `https://github.com/your-username/your-repo.git`
-6. Click **Add** and the package will be imported into your project.
+### 2. Downloading the Ultraleap Tracking Plugin
 
-## Features
+To integrate Ultraleap tracking, follow these steps:
 
-- AwesomeScript.cs: This script adds some awesome functionality to your game objects.
-- CoolPrefab.prefab: A cool prefab ready to be used in your scenes.
-- BeautifulTextures: A collection of beautiful textures to make your game visually stunning.
+- Download the Ultraleap Tracking plugin from the following link: [Ultraleap Tracking Plugin](https://github.com/ultraleap/UnityPlugin/releases/).
 
-## Usage
+### 3. Selecting the Main Scene
 
-Simply import the package into your Unity project following the installation steps. Once imported, you can access the scripts, prefabs, and textures from the project window and use them in your scenes.
+- Open Unity and import the project.
+- Go to the "Project" menu in Unity.
+- Navigate to "Assets" and find the main scene.
+- Select the main scene to load it into the editor.
 
-## Contribution
+### 4. Launching the Simulation
 
-If you want to contribute to this package, feel free to fork the repository and submit a pull request with your changes. We welcome any improvements or additional features!
+- In Unity, ensure that you have correctly set up your VR devices (SteamVR and Varjo Lab).
+- Press the "Play" button at the top of the Unity editor to launch the simulation. Make sure you have your VR devices connected and configured to experience the virtual environment.
 
-## License
+## Exploring Use Cases
 
-This package is under the [MIT License](LICENSE), allowing you to freely use and modify it in your projects.
+The project provides samples to explore different applications and use cases of virtual reality. Follow these steps to explore the samples:
 
----
+- Open the "Project" menu in Unity.
+- Navigate to "Assets" and find the "Sample" folder.
+- Explore the different samples to discover the varied features and use cases offered by the project.
 
-French - README.md:
+Enjoy exploring and immersing yourself in the experience that this Unity project with SteamVR, Varjo Lab, and Ultraleap Tracking can offer!
 
-# Package Unity - Mon Super Package Unity
+Feel free to consult the respective documentation of each tool for more detailed information about their features and configurations.
 
-Ceci est un package Unity contenant des fonctionnalités étonnantes et des utilitaires pour améliorer vos projets Unity. Il inclut différents scripts, prefabs, textures, et plus encore pour vous faire gagner du temps et faciliter le développement de jeux.
 
-## Installation
+Fr --
+Ce README vous guidera à travers les étapes nécessaires pour lancer et explorer le projet Unity avec SteamVR et Varjo Lab. Assurez-vous de suivre ces étapes pour une expérience fluide.
 
-Pour utiliser ce package dans votre projet Unity, suivez ces étapes :
+## Étapes pour lancer le projet
 
-1. Ouvrez votre projet Unity.
-2. Allez dans le menu **Window**.
-3. Sélectionnez **Package Manager**.
-4. Cliquez sur le bouton **+** et choisissez **Add package from git URL**.
-5. Entrez l'URL suivante : `https://github.com/votre-nom-d'utilisateur/votre-repo.git`
-6. Cliquez sur **Add** et le package sera importé dans votre projet.
+### 1. Prérequis
 
-## Fonctionnalités
+Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
 
-- AwesomeScript.cs: Ce script ajoute des fonctionnalités incroyables à vos objets de jeu.
-- CoolPrefab.prefab: Un prefab génial prêt à être utilisé dans vos scènes.
-- BeautifulTextures: Une collection de belles textures pour rendre votre jeu visuellement époustouflant.
+- **Unity** : Assurez-vous d'avoir Unity installé sur votre système. Si ce n'est pas le cas, téléchargez-le depuis le site officiel : [Unity Download](https://unity.com/download).
+- **SteamVR** : Installez SteamVR pour permettre la réalité virtuelle dans le projet. Vous pouvez le télécharger à partir de [SteamVR](https://store.steampowered.com/app/250820/SteamVR/).
+- **Varjo Lab** : Assurez-vous d'avoir installé Varjo Lab pour les fonctionnalités de réalité virtuelle avancées. Obtenez-le sur le site de Varjo : [Varjo Lab](https://developer.varjo.com/downloads/varjo-base).
 
-## Utilisation
+### 2. Téléchargement du plugin Ultraleap Tracking
 
-Importez simplement le package dans votre projet Unity en suivant les étapes d'installation. Une fois importé, vous pouvez accéder aux scripts, prefabs et textures depuis la fenêtre du projet et les utiliser dans vos scènes.
+Pour intégrer le suivi Ultraleap, suivez ces étapes :
 
-## Contribution
+- Téléchargez le plugin Ultraleap Tracking depuis le lien suivant : [Ultraleap Tracking Plugin](https://github.com/ultraleap/UnityPlugin/releases/).
 
-Si vous souhaitez contribuer à ce package, n'hésitez pas à faire un fork du dépôt et à soumettre une pull request avec vos modifications. Nous accueillons favorablement toute amélioration ou fonctionnalité supplémentaire !
+### 3. Sélection de la scène principale
 
-## Licence
+- Ouvrez Unity et importez le projet.
+- Accédez au menu "Projet" dans Unity.
+- Naviguez vers "Assets" et trouvez la scène principale.
+- Sélectionnez la scène principale pour la charger dans l'éditeur.
 
-Ce package est sous [licence MIT](LICENSE), ce qui vous permet de l'utiliser et de le modifier librement dans vos projets.
+### 4. Lancer la simulation
+
+- Dans Unity, assurez-vous d'avoir configuré correctement vos périphériques VR (SteamVR et Varjo Lab).
+- Appuyez sur le bouton "Jouer" en haut de l'éditeur Unity pour lancer la simulation. Assurez-vous d'avoir vos périphériques VR connectés et configurés pour vivre l'expérience virtuelle.
+
+## Exploration des cas d'utilisation
+
+Le projet propose des échantillons (samples) pour explorer différentes applications et cas d'utilisation de la réalité virtuelle. Suivez ces étapes pour explorer les échantillons :
+
+- Ouvrez le menu "Projet" dans Unity.
+- Naviguez vers "Assets" et trouvez le dossier "Sample".
+- Explorez les différents échantillons pour découvrir les fonctionnalités et les cas d'utilisation variés offerts par le projet.
+
+Profitez de l'exploration et de l'expérience immersive que ce projet Unity avec SteamVR, Varjo Lab et Ultraleap Tracking peut offrir !
+
+N'hésitez pas à consulter la documentation respective de chaque outil pour des informations plus détaillées sur leurs fonctionnalités et leurs configurations.
