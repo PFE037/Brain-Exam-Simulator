@@ -71,6 +71,13 @@ public class VarjoMarkerManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+        for (var i = 0; i < trackedObjects.Length; i++)
+        {
+            trackedObjects[i].markersPositions = new Dictionary<int, Vector3>();
+            trackedObjects[i].markersLastSeen = new Dictionary<int, int>();
+        }
+        
         // Check if Varjo Marker tracking is enabled and functional.
         if (VarjoMarkers.IsVarjoMarkersEnabled())
         {
@@ -120,7 +127,7 @@ public class VarjoMarkerManager : MonoBehaviour
                     RTS.localScale = Vector3.one;
                 }
 
-                trackedObject.gameObject.transform.position = Vector3.MoveTowards(trackedObject.gameObject.transform.position, getCenter(trackedObject), (trackedObject.gameObject.transform.position - (getCenter(trackedObject))).magnitude / 5);
+                trackedObject.gameObject.transform.position = Vector3.MoveTowards(trackedObject.gameObject.transform.position, getCenter(trackedObject), (trackedObject.gameObject.transform.position - (getCenter(trackedObject))).magnitude);
                 trackedObject.gameObject.transform.rotation = RTS.rotation * trackedObject.rotation;
                 trackedObject.gameObject.transform.localScale = RTS.localScale;
             }

@@ -159,11 +159,11 @@ namespace Leap.Unity
                 float currentPitchDistance = Vector3.Distance(_pinchDetectorA.Position, _pinchDetectorB.Position);
                 if(currentPitchDistance > previousPinchDistance + minimumPinchChangeDistance)
                 {
-                    transform.localScale = Vector3.MoveTowards(transform.localScale, transform.localScale + Vector3.one * currentPitchDistance, 0.05f);
+                    transform.localScale = Vector3.MoveTowards(transform.localScale, transform.localScale + Vector3.one * currentPitchDistance, 10f);
                 }
                 else if (currentPitchDistance < previousPinchDistance - minimumPinchChangeDistance)
                 {
-                    transform.localScale = Vector3.MoveTowards(transform.localScale, transform.localScale - Vector3.one * currentPitchDistance, 0.05f);
+                    transform.localScale = Vector3.MoveTowards(transform.localScale, transform.localScale - Vector3.one * currentPitchDistance, 10f);
                 }
                 previousPinchDistance = currentPitchDistance;
             }
