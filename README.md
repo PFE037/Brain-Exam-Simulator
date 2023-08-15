@@ -7,7 +7,7 @@ This README will guide you through the necessary steps to launch and explore the
 
 Before you begin, make sure you have the following installed:
 
-- **Unity**: Ensure you have Unity installed on your system. If not, download it from the official website: [Unity Download](https://unity.com/download).
+- **Unity**: Ensure you have Unity 2022.2.20f1 installed on your system. If not, download it from the official website: [Unity Download](https://unity.com/download).
 - **SteamVR**: Install SteamVR to enable virtual reality in the project. You can download it from [SteamVR](https://store.steampowered.com/app/250820/SteamVR/).
 - **Varjo Lab**: Make sure you have Varjo Lab installed for advanced virtual reality features. Get it from the Varjo website: [Varjo Lab](https://developer.varjo.com/downloads/varjo-base).
 
@@ -51,7 +51,7 @@ Ce README vous guidera à travers les étapes nécessaires pour lancer et explor
 
 Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
 
-- **Unity** : Assurez-vous d'avoir Unity installé sur votre système. Si ce n'est pas le cas, téléchargez-le depuis le site officiel : [Unity Download](https://unity.com/download).
+- **Unity** : Assurez-vous d'avoir Unity 2022.2.20f1 installé sur votre système. Si ce n'est pas le cas, téléchargez-le depuis le site officiel : [Unity Download](https://unity.com/download).
 - **SteamVR** : Installez SteamVR pour permettre la réalité virtuelle dans le projet. Vous pouvez le télécharger à partir de [SteamVR](https://store.steampowered.com/app/250820/SteamVR/).
 - **Varjo Lab** : Assurez-vous d'avoir installé Varjo Lab pour les fonctionnalités de réalité virtuelle avancées. Obtenez-le sur le site de Varjo : [Varjo Lab](https://developer.varjo.com/downloads/varjo-base).
 
