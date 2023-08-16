@@ -29,19 +29,6 @@ To integrate Ultraleap tracking, follow these steps:
 - In Unity, ensure that you have correctly set up your VR devices (SteamVR and Varjo Lab).
 - Press the "Play" button at the top of the Unity editor to launch the simulation. Make sure you have your VR devices connected and configured to experience the virtual environment.
 
-## Exploring Use Cases
-
-The project provides samples to explore different applications and use cases of virtual reality. Follow these steps to explore the samples:
-
-- Open the "Project" menu in Unity.
-- Navigate to "Assets" and find the "Sample" folder.
-- Explore the different samples to discover the varied features and use cases offered by the project.
-
-Enjoy exploring and immersing yourself in the experience that this Unity project with SteamVR, Varjo Lab, and Ultraleap Tracking can offer!
-
-Feel free to consult the respective documentation of each tool for more detailed information about their features and configurations.
-
-
 #### FR
 Ce README vous guidera à travers les étapes nécessaires pour lancer et explorer le projet Unity avec SteamVR et Varjo Lab. Assurez-vous de suivre ces étapes pour une expérience fluide.
 
@@ -72,15 +59,5 @@ Pour intégrer le suivi Ultraleap, suivez ces étapes :
 
 - Dans Unity, assurez-vous d'avoir configuré correctement vos périphériques VR (SteamVR et Varjo Lab).
 - Appuyez sur le bouton "Jouer" en haut de l'éditeur Unity pour lancer la simulation. Assurez-vous d'avoir vos périphériques VR connectés et configurés pour vivre l'expérience virtuelle.
-
-## Exploration des cas d'utilisation
-
-Le projet propose des échantillons (samples) pour explorer différentes applications et cas d'utilisation de la réalité virtuelle. Suivez ces étapes pour explorer les échantillons :
-
-- Ouvrez le menu "Projet" dans Unity.
-- Naviguez vers "Assets" et trouvez le dossier "Sample".
-- Explorez les différents échantillons pour découvrir les fonctionnalités et les cas d'utilisation variés offerts par le projet.
-
-Profitez de l'exploration et de l'expérience immersive que ce projet Unity avec SteamVR, Varjo Lab et Ultraleap Tracking peut offrir !
 
 N'hésitez pas à consulter la documentation respective de chaque outil pour des informations plus détaillées sur leurs fonctionnalités et leurs configurations.
